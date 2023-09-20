@@ -1,4 +1,4 @@
 # example
 ## this is my image
 
-![] (images/me2.jpg)
+<html><src img='me2.jpg'><</html>
